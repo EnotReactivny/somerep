@@ -1,0 +1,9 @@
+.parent{
+    border: 1px solid grey;
+    border-collapse: collapse;
+    }
+    
+row{
+    width: 30px;
+    height: 30px;
+}
